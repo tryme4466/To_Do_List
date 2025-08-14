@@ -1,3 +1,10 @@
 @import "tailwindcss/preflight";
 @import "tailwindcss/theme";
 @import "tailwindcss/utilities";
+
+.input-primary{
+   @apply bg-gray-200 w-full m-3 p-3 rounded-lg;
+}
+.btn-primary{
+   @apply bg-blue-400 w-40 m-3 cursor-pointer rounded-lg;
+}
