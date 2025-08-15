@@ -8,3 +8,4 @@
 .btn-primary{
    @apply bg-blue-400 w-40 m-3 cursor-pointer rounded-lg;
 }
+
